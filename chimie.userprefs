@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Qualcomm Augmented Reality\Scripts\DefaultTrackableEventHandler.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MoveS1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Qualcomm Augmented Reality\Scripts\DefaultTrackableEventHandler.cs" Line="91" Column="35" />
+      <File FileName="Assets\Qualcomm Augmented Reality\Scripts\VirtualButtonEventHandler.cs" Line="85" Column="33" />
+      <File FileName="Assets\Scripts\MoveComp2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Destroy.cs" Line="27" Column="17" />
+      <File FileName="Assets\Scripts\Buttons\SoundButton.cs" Line="12" Column="5" />
+      <File FileName="Assets\Scripts\MenuObject.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

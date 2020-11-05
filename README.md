@@ -1,4 +1,4 @@
-# Chemecial-AR
+# Chemical-AR
 
 The application is developed in C# with Unity3D and Vuforia SDK for augmented reality. The application is a prototype for 3D displays of chemical reactions. The features are:
 
